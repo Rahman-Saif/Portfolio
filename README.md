@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Portfolio Screenshot](https://github.com/your-username/portfolio-site/blob/main/images/portfolio-screenshot.png)
+![Portfolio Screenshot]
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -24,7 +24,7 @@ Welcome to my portfolio website! This site showcases my skills, services, and ed
 - **Responsive Design**: The site is fully responsive and looks great on all devices.
 
 ## Demo
-Check out the live demo: [Portfolio Website Live Demo](https://your-live-demo-link.com)
+Check out the live demo: [Portfolio Website Live Demo](https://rahman-saif.github.io/Portfolio/)
 
 ## Technologies Used
 - **HTML**: For the structure of the site.
