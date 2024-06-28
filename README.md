@@ -8,11 +8,7 @@
 3. [Demo](#demo)
 4. [Technologies Used](#technologies-used)
 5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Screenshots](#screenshots)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+
 
 ## Introduction
 Welcome to my portfolio website! This site showcases my skills, services, and educational background. Built with **HTML**, **CSS**, and **JavaScript**, it provides a comprehensive overview of my professional journey.
